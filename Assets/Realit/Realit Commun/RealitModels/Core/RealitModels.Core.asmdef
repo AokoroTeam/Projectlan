@@ -1,0 +1,18 @@
+{
+    "name": "RealitModels.Core",
+    "rootNamespace": "Realit.Models",
+    "references": [
+        "GUID:f82a87380f5a32e47b9f374eaf06856e",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:a1ab9aaeb82d4f44d9f42c707466e1c1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

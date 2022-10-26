@@ -1,0 +1,37 @@
+{
+    "name": "Realit.Reader",
+    "rootNamespace": "Realit.Reader",
+    "references": [
+        "GUID:a1ab9aaeb82d4f44d9f42c707466e1c1",
+        "GUID:af5b7f2dc543ffe4ab8f31af2b4e4ba0",
+        "GUID:19884d3721f4f6d4582d72694218d547",
+        "GUID:324bb285b201c5f4d92dbcc2c0fc5db0",
+        "GUID:be2253ffa13354f428a91ee3f258d64b",
+        "GUID:f82a87380f5a32e47b9f374eaf06856e",
+        "GUID:ab47457d686a2d44bb08495cf24277c1",
+        "GUID:5a93d38f4f94202408990f8d8b3fa7f7",
+        "GUID:b2d46c3cbb660b6499ea984fa4eade12",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:559a13818d9deb8419c24cd726483f7e",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:bd8693eda59efbb4d809663c40d7289b",
+        "GUID:0c836d90a97f22e40993ff680a311a76"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "IS_READER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

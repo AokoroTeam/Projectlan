@@ -1,0 +1,21 @@
+{
+    "name": "Realit.Commun",
+    "rootNamespace": "Realit",
+    "references": [
+        "GUID:324bb285b201c5f4d92dbcc2c0fc5db0",
+        "GUID:559a13818d9deb8419c24cd726483f7e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

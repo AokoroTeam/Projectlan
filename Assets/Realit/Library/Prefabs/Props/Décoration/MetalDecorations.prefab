@@ -1,0 +1,598 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3238286075742007253
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3238286075742237685}
+  - component: {fileID: -5843341456492877496}
+  m_Layer: 0
+  m_Name: MetalDecorations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &3238286075742237685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3238286075742007253}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.982024, y: 0, z: 7.075094}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6803722199580713927}
+  - {fileID: 3238286075742237689}
+  - {fileID: 3238286075742237687}
+  - {fileID: 5671338627106101640}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-5843341456492877496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3238286075742007253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectPath: "Assets/Data/Library/Prefabs/Props/D\xE9coration/MetalDecorations.prefab"
+  addressableKey: e43f1f87fc8e77c4fbf2a2b2a9e4f43d
+--- !u!1001 &587100379561858969
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3238286075742237685}
+    m_Modifications:
+    - target: {fileID: 2236854470899089608, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 5886542337801511638, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 2243655281752361050, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: ProjectPath
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218804053056, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -8037698563214667217, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 2654160218807220288, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_1LOD0_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.292
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.448
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.108
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6805764767542627885, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_1LOD1_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929587747354878809, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 6523771733638675574, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7831934909948141141, guid: f3b78590d442fb841b1db7b68137a52a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_1LOD2_0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3b78590d442fb841b1db7b68137a52a, type: 3}
+--- !u!4 &3238286075742237689 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2654160218807444576, guid: f3b78590d442fb841b1db7b68137a52a,
+    type: 3}
+  m_PrefabInstance: {fileID: 587100379561858969}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2638108861257073326
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3238286075742237685}
+    m_Modifications:
+    - target: {fileID: -2379294902532743082, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: ProjectPath
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 467531018877211568, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -3006973880900025444, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 607077819319071099, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -8454416597894875543, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 607077819319071101, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 8498818115565193590, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 607077819322461565, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD0_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 607077819322461567, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD0_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343225385829774120, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD1_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1644801205237234422, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDeco_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2365589249650217609, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 8057785351978198947, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 4902319938086642253, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD2_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362882815134535959, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 946126892169681692, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 5552115459534604865, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD1_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7350687595266107375, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_3LOD2_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.5436497
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.45319998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.18779993
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9161858699912469009, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 2759009314468133007, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 546d8abfc5aa53340b3ffc2d544ceab3, type: 3}
+--- !u!4 &5671338627106101640 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7649599704414919462, guid: 546d8abfc5aa53340b3ffc2d544ceab3,
+    type: 3}
+  m_PrefabInstance: {fileID: 2638108861257073326}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3430762812902460386
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3238286075742237685}
+    m_Modifications:
+    - target: {fileID: -7352924254355849728, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: ProjectPath
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615324213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDeco_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.292
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.06748596
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.017
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3655533465186925768, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 560349615769036471, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 4102191838930479271, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -1659172011854045416, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 5519513623017651760, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_2LOD1_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597927876069044109, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -4375312490675647487, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7134018913877176797, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_2LOD2_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664858346301437930, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_2LOD0_0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3a8ba98f643d81f4890c51cfad2b899a, type: 3}
+--- !u!4 &3238286075742237687 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 246625537615624213, guid: 3a8ba98f643d81f4890c51cfad2b899a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3430762812902460386}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5076800024786066847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3238286075742237685}
+    m_Modifications:
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.7629398
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5114778
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.020794392
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1934000934899314442, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -784965779419963763, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 2522414895536702580, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD2_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2831032819042266633, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 3266619397352066488, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 2845546584425171899, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 7667671018937051222, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 3284895572023934515, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -4440382272658360930, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 5159763261600467093, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: ProjectPath
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5870120467348612205, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD1_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6034989473876140633, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalCandles
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497339378587652343, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD2_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546084236783584707, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD1_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6584409391155971912, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 6323266543434879012, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 6681169890154736747, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -3871908793582345329, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7675504573117673024, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -289721037224944032, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7675504573117673026, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5052200197218365666, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7675504573117673028, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 3214961950306143097, guid: 094ea2e25ba32d148b76cf89b9b7772b,
+        type: 3}
+    - target: {fileID: 7675504573118902848, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD0_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7675504573118902850, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD0_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7675504573118902852, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD0_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7688085168756977284, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD1_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7794721970965800878, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalDecorations_0LOD2_0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 235d232bf30653a4abb42c58a7aa6b6a, type: 3}
+--- !u!4 &6803722199580713927 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1738327829850095192, guid: 235d232bf30653a4abb42c58a7aa6b6a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5076800024786066847}
+  m_PrefabAsset: {fileID: 0}

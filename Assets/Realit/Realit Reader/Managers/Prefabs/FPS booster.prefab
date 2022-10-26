@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &36997659519207432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 36997659519207434}
+  - component: {fileID: 36997659519207433}
+  m_Layer: 0
+  m_Name: FPS booster
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &36997659519207434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 36997659519207432}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &36997659519207433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 36997659519207432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d26f5db51e93fe4ebb605746927f758, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dpi: 1
+  dynamicResolutionSystem: 1
+  dpiDecrease: 0.02
+  dpiIncrease: 0.02
+  fpsMax: 30
+  fpsMin: 20
+  dpiMin: 0.45
+  dpiMax: 1
+  measurePeriod: 1
+  fixedDPI: 1
+  useRenderScaleURP: 1
+  fps: 0
+  dpr: 1
+  m_FpsNextPeriod: 1.5
+  defaultDPR: 1
+  lastDPR: 0
+  lastDynamicResolutionSystem: 0
+  lastShowHideUI: 0
+  urp: 0

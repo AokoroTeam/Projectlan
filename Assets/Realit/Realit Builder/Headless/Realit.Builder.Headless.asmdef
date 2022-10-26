@@ -1,0 +1,23 @@
+{
+    "name": "Realit.Builder.Headless",
+    "rootNamespace": "Realit.Builder.Headless",
+    "references": [
+        "GUID:e4a6becd1b7974f469a1f0aa7edc3ac0",
+        "GUID:a1ab9aaeb82d4f44d9f42c707466e1c1",
+        "GUID:2e07817c25e9afe43a945bff0e50b567",
+        "GUID:f82a87380f5a32e47b9f374eaf06856e",
+        "GUID:324bb285b201c5f4d92dbcc2c0fc5db0",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "IS_BUILDER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

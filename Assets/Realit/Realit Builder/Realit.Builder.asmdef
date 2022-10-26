@@ -1,0 +1,23 @@
+{
+    "name": "Realit.Builder",
+    "rootNamespace": "Realit.Builder",
+    "references": [
+        "GUID:324bb285b201c5f4d92dbcc2c0fc5db0",
+        "GUID:a1ab9aaeb82d4f44d9f42c707466e1c1",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:19884d3721f4f6d4582d72694218d547",
+        "GUID:af5b7f2dc543ffe4ab8f31af2b4e4ba0",
+        "GUID:61890124ed53fcb4dbed2417a9a9b170"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "IS_BUILDER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
