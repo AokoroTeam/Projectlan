@@ -1,0 +1,18 @@
+{
+    "name": "Aokoro.ModelExporter.Editor",
+    "rootNamespace": "Aokoro.Tools.ModelExporter.Runtime.Editor",
+    "references": [
+        "GUID:e213f07e8e987d14686120bc0dc565d8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Aokoro.Sequencing.Cutscenes",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f82a87380f5a32e47b9f374eaf06856e",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

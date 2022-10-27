@@ -1,0 +1,19 @@
+{
+    "name": "PolyFew.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:199144cfd25db134f9f322aaa3d28483",
+        "GUID:77ccaf49895b0d64e87cd4b4faf83c49"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

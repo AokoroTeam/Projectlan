@@ -1,0 +1,18 @@
+{
+    "name": "Aokoro.ControlDisplay.Player",
+    "rootNamespace": "Aokoro.ControlDisplay.Player",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:5a93d38f4f94202408990f8d8b3fa7f7",
+        "GUID:be2253ffa13354f428a91ee3f258d64b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Aokoro.UI",
+    "rootNamespace": "Aokoro.UI",
+    "references": [
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:324bb285b201c5f4d92dbcc2c0fc5db0",
+        "GUID:559a13818d9deb8419c24cd726483f7e",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

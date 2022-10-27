@@ -1,0 +1,19 @@
+{
+    "name": "ECM2_EDITOR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0c836d90a97f22e40993ff680a311a76",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

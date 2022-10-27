@@ -1,0 +1,41 @@
+{
+    "name": "Aokoro.ModelExporter.Core",
+    "rootNamespace": "Aokoro.ModelExporter.Core",
+    "references": [
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:77fc2e1f5a4f24efab94081ad67fcb20",
+        "GUID:0f9e8f73c69964f1e8176f9a0b86f9b2",
+        "GUID:1826c0224c0d048b88112c79bbb0cd85",
+        "GUID:39b65f12fbeeab141b52c86b73253497"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "EmbeddedLinux",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "iOS",
+        "LinuxStandalone64",
+        "CloudRendering",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
