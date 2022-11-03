@@ -12,7 +12,7 @@ namespace Realit.UI
         InfluencedProperty<(float, string)> progresses;
 
         [SerializeField]
-        private ProgressBar bar;
+        private UnityEngine.UIElements.ProgressBar bar;
         [SerializeField]
         private TextMeshProUGUI tmp_label;
         
