@@ -164,6 +164,7 @@ MonoBehaviour:
   PlayerRessource: {fileID: 0}
   IsReadyForLoading: 0
   loadingPanel: {fileID: 9038752804971059056}
+  isDemo: 1
 --- !u!114 &1856193314
 MonoBehaviour:
   m_ObjectHideFlags: 0

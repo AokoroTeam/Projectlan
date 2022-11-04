@@ -19,17 +19,21 @@ namespace Realit.Reader.Managers
 
         public bool Skipped { get; set; }
 
-        private bool IsPlayerInstantiated = false;
+        public bool IsPlayerInstantiated = false;
 
         public void ApplyData(JToken data)
         {
             IsPlayerInstantiated = false;
             Debug.Log("[Player] Loading player...");
-            
+
 
             var pos = new Vector3().Deserialize(data["pos"]);
             var rot = Quaternion.LookRotation(new Vector3().Deserialize(data["rot"]), Vector3.up);
+            InstantiatePlayer(pos, rot);
+        }
 
+        public void InstantiatePlayer(Vector3 pos, Quaternion rot)
+        {
             var asyncOperation = player.InstantiateAsync(pos, rot);
             asyncOperation.Completed += p =>
             {

@@ -13,6 +13,10 @@ namespace Realit.Reader.UI
         private void Awake()
         {
             canvasGroup = GetComponent<CanvasGroup>();
+            if(RealitReader.Instance.isDemo)
+            {
+                Instance_OnStartsLoading();
+            }
 
         }
         private void OnEnable()

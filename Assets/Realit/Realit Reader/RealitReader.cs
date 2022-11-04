@@ -37,6 +37,11 @@ namespace Realit.Reader
         public bool IsReadyForLoading = false;
         [BoxGroup("Runtime")]
         public LoadingPanel loadingPanel;
+        [BoxGroup("Runtime")]
+        public bool isDemo;
+        [BoxGroup("Runtime"), ShowIf(nameof(isDemo))]
+        public Transform spawn;
+
 
         protected override void Awake()
         {
@@ -64,6 +69,11 @@ namespace Realit.Reader
             IsReadyForLoading = true;
 
             Debug.Log("[Realit Reader] adressables intialized");
+
+            if(isDemo)
+            {
+                StartCoroutine(GenerateScene(null));
+            }
         }
 
 #if UNITY_WEBGL && !UNITY_EDITOR
@@ -160,13 +170,22 @@ namespace Realit.Reader
                 yield return null;
             }
             Debug.Log($"[Realit Reader] Scene Manager loaded");
+            if (!isDemo)
+            {
+                Debug.Log($"[Realit Reader] Creating Scene...");
+                loadingPanel.UpdateBar(this, .5f * 100, "Téléchargement du contenu");
+                realitScene.ReadData(data);
 
-            Debug.Log($"[Realit Reader] Creating Scene...");
-            loadingPanel.UpdateBar(this, .5f * 100, "Téléchargement du contenu");
-            realitScene.ReadData( data);
-            
-            while (!realitScene.IsDone)
-                yield return null;
+                while (!realitScene.IsDone)
+                    yield return null;
+            }
+            else
+            {
+                PlayerDataReader playerDataReader = GetComponent<PlayerDataReader>();
+                playerDataReader.InstantiatePlayer(spawn.position, spawn.rotation);
+                while (!playerDataReader.IsPlayerInstantiated)
+                    yield return null;
+            }
             
             Debug.Log($"[Realit Reader] Scene created");
 
