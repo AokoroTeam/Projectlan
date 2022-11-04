@@ -44,7 +44,7 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959735163185516}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.10243803, y: 0.25291684, z: -0.18215658}
+  m_LocalReferencePoint: {x: 0.0000012516975, y: 0.25296515, z: 0.0005420521}
   m_Size: 0.6516422
   m_FadeMode: 0
   m_AnimateCrossFading: 0
@@ -58,7 +58,7 @@ LODGroup:
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 5697864092869037080}
-  - screenRelativeHeight: 0.06281345
+  - screenRelativeHeight: 0.028080411
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 1698975763523642345}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Electronique/MacPC.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Electronique/MacPC.prefab
   addressableKey: 877a3e8d39b017347b12ae42ace796c8
 --- !u!1 &1042270167099436163
 GameObject:

@@ -1,7 +1,4 @@
 using Aokoro;
-using Michsky.UI.ModernUIPack;
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
@@ -12,7 +9,7 @@ namespace Realit.UI
         InfluencedProperty<(float, string)> progresses;
 
         [SerializeField]
-        private UnityEngine.UIElements.ProgressBar bar;
+        private Michsky.UI.ModernUIPack.ProgressBar bar;
         [SerializeField]
         private TextMeshProUGUI tmp_label;
         
