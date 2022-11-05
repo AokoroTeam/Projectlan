@@ -60,14 +60,13 @@ namespace Aokoro.UI.ControlsDiplaySystem
             if (ActionProvider != value)
             {
                 if (ActionProvider != null)
-                {
                     ActionProvider.OnActionsNeedRefresh -= Refresh;
-                    if (triggerRefresh)
-                        Refresh();
-                }
 
                 ActionProvider = value;
                 ActionProvider.OnActionsNeedRefresh += Refresh;
+
+                if (triggerRefresh)
+                    Refresh();
             }
         }
 

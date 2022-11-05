@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4278a726b81239f4587c76beda0bf3e1
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 21300
   internalIDToNameTable: []
   externalObjects:
   - first:
@@ -10,7 +10,7 @@ ModelImporter:
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -104,6 +104,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

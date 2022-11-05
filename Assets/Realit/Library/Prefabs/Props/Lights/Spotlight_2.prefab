@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -144,8 +144,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 46e0398636f28964d8ee3c105d84c864, type: 2}
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: 5844063d4bda70d41a1374677ba45d54, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -261,7 +261,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -344,8 +344,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 46e0398636f28964d8ee3c105d84c864, type: 2}
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: 5844063d4bda70d41a1374677ba45d54, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -461,7 +461,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -659,8 +659,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 46e0398636f28964d8ee3c105d84c864, type: 2}
-  - {fileID: 2100000, guid: 5db475085dea7f34e84f98030e07efb1, type: 2}
+  - {fileID: 2100000, guid: 5844063d4bda70d41a1374677ba45d54, type: 2}
+  - {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -776,7 +776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Lights/Spotlight_2.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Lights/Spotlight_2.prefab
   addressableKey: 9248ec7249901b244bff5453b1fa421d
 --- !u!1 &7745474737567656150
 GameObject:

@@ -19,7 +19,7 @@ namespace Realit.Reader.Player.Movement
             SceneManager.OnPlayerIsSetup -= OnPlayerIsCreatedCallback;
             PlayerCharacter playerCharacter = player.GetLivingComponent<PlayerCharacter>();
             playerCharacter.UI = this;
-            AssignActionProvider(playerCharacter);
+            AssignActionProvider(playerCharacter, true);
         }
     }
 }
