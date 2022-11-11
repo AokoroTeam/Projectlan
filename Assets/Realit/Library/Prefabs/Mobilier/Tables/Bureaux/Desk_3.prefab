@@ -13,12 +13,12 @@ GameObject:
   - component: {fileID: 526520023899518127}
   - component: {fileID: 526520023899518121}
   - component: {fileID: 5707195633237283052}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Desk_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &526520023899518120
 Transform:
@@ -27,10 +27,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 526520023899518123}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.087, y: 0.4305308, z: -3.321}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 1
+  m_LocalScale: {x: 0.92628086, y: 0.8614437, z: 0.7218741}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 6e06c1df6e110bc4d99859d86c4b60f0, type: 2}
-  - {fileID: 2100000, guid: b1796868052b3294ab3ef7a6c37ac60d, type: 2}
+  - {fileID: 2100000, guid: 89e56e41496ba72448a3af1ba0830d25, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -112,5 +112,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: 
+  projectPath: Assets/Realit/Library/Prefabs/Mobilier/Tables/Bureaux/Desk_3.prefab
   addressableKey: 
