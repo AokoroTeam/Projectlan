@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Mobilier/Shelfs/Kallax_2x2.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Mobilier/Shelfs/Kallax_2x2.prefab
   addressableKey: e82bbf2b70a3d5d429a795558ac8c15d
 --- !u!1 &1436011431654520
 GameObject:
@@ -109,7 +109,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ee696773475884949a49aae298a01af0, type: 2}
+  - {fileID: 2100000, guid: ada88f6bcd53ef24dae1fb1ab6ca0957, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

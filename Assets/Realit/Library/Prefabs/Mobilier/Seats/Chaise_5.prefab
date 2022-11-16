@@ -68,7 +68,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 0.29805303
+  m_ScaleInLightmap: 0.24
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
@@ -151,7 +151,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 0.51604617
+  m_ScaleInLightmap: 0.32
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
@@ -477,9 +477,9 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8681628652483971762}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.00078317523, y: -0.00028127432, z: -0.003972277}
-  m_Size: 1.183106
-  m_FadeMode: 1
+  m_LocalReferencePoint: {x: 0.0007826686, y: -0.00028127432, z: -0.0040392727}
+  m_Size: 1.1831057
+  m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
@@ -508,5 +508,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Mobilier/Seats/Chaise_5.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Mobilier/Seats/Chaise_5.prefab
   addressableKey: 5baead5bc19e5d545b79887ca19dd835

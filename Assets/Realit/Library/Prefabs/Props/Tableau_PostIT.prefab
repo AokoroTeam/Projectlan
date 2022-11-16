@@ -40,7 +40,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1574730011862248}
-  m_Mesh: {fileID: 4300000, guid: 0e4571848b4d50747b6d94ec87a3682e, type: 3}
+  m_Mesh: {fileID: -3478675526003740473, guid: 1f55ec83f288d9643bec01405d1e34f6, type: 3}
 --- !u!23 &23554092035647544
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Tableau_PostIT.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Tableau_PostIT.prefab
   addressableKey: fd5e84b828cd28745be1257ba766d56c
 --- !u!1 &1717711523993302
 GameObject:
@@ -171,7 +171,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1717711523993302}
-  m_Mesh: {fileID: 4300002, guid: 0e4571848b4d50747b6d94ec87a3682e, type: 3}
+  m_Mesh: {fileID: 1147136117268011170, guid: 1f55ec83f288d9643bec01405d1e34f6, type: 3}
 --- !u!23 &23276502738652978
 MeshRenderer:
   m_ObjectHideFlags: 0

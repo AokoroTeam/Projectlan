@@ -128,8 +128,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1867865453342690}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: -0.09664584, y: 0.9630543, z: -0.0005683899}
-  m_Size: 1.9335947
+  m_LocalReferencePoint: {x: -0.096334435, y: 0.9635063, z: -0.0003010705}
+  m_Size: 1.9372905
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Lights/Light_2.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Lights/Light_2.prefab
   addressableKey: 10bc536b1c892c9458306644d7ff37dc
 --- !u!1 &1888598015657262
 GameObject:

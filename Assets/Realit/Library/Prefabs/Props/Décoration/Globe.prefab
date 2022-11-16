@@ -426,7 +426,7 @@ Transform:
   m_GameObject: {fileID: 4220542415428654255}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.012244821, y: 0.051416665, z: 0.3003788}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.548, y: 1.548, z: 1.548}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7444949938067340964}
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: "Assets/Data/Library/Prefabs/Props/D\xE9coration/Globe.prefab"
+  projectPath: "Assets/Realit/Library/Prefabs/Props/D\xE9coration/Globe.prefab"
   addressableKey: 587f93e7cf21d2b479da5398671b269b
 --- !u!1 &5172650241056770998
 GameObject:

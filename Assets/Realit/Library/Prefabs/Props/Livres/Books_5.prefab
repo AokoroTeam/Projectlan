@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 1096073966844728}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.7955, y: 1.7955, z: 1.7955}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4932963736022326}
@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Livres/Books_5.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Livres/Books_5.prefab
   addressableKey: bb1d45ce8183e264786054b2bc2272d9
 --- !u!1 &1116647974531914
 GameObject:
