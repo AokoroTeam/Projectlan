@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4a913dee8a0a5bc42a4ace8fcf93f158
+guid: 3c02b9835f17a8d4d8a4b16e114424fa
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -9,65 +9,10 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Aircondition
     second: {fileID: 2100000, guid: ec88d7b454c124247afb2687a658fa4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Brick_3_2
-    second: {fileID: 2100000, guid: 97999abea8742684290fd909e84ef868, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ceramic_White_1
-    second: {fileID: 2100000, guid: 305a9a75c26bfba44af8edfa2956890d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass_1
-    second: {fileID: 2100000, guid: 2dffd8327def9424a9dbde83aeeec36e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Iron_3_1
-    second: {fileID: 2100000, guid: 628b112961b4c814c9f6493f7a4b52d2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_1
-    second: {fileID: 2100000, guid: ae41f4e2365628448aaa5d541ee58eea, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_Chrome_1
-    second: {fileID: 2100000, guid: 94726df32a04cf3478a413d9db9c3e0a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic_Black_1
-    second: {fileID: 2100000, guid: 2d36aacefe453ee4d8ee15be2e127b83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic_Grey_1
-    second: {fileID: 2100000, guid: 3d859dc897012724480fb19ce1ac7476, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic_Red_1
-    second: {fileID: 2100000, guid: 54e1d1409e790d84c83945c6e8cf8593, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic_White_1
-    second: {fileID: 2100000, guid: ee696773475884949a49aae298a01af0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic_White_2
-    second: {fileID: 2100000, guid: ada88f6bcd53ef24dae1fb1ab6ca0957, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
-    materialSearch: 2
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -95,7 +40,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 250
     meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -148,7 +93,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 2.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
