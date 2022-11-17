@@ -408,7 +408,6 @@ GameObject:
   m_Component:
   - component: {fileID: 921330476165031612}
   - component: {fileID: 4502250960999758868}
-  - component: {fileID: 585563202218475062}
   - component: {fileID: 6973550430512132022}
   m_Layer: 0
   m_Name: Globe
@@ -465,20 +464,6 @@ LODGroup:
     - renderer: {fileID: 3205679423783636180}
     - renderer: {fileID: 2373445357465293683}
   m_Enabled: 1
---- !u!114 &585563202218475062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4220542415428654255}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efbc09fb139a7b4448578f10ebbed9ac, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  exportPath: Data/Meshes/Props
-  fileName: 
 --- !u!114 &6973550430512132022
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08cb45398154e9e42877270dba30bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectPath: Assets/Data/Library/Prefabs/Props/Lights/LightBar_1.prefab
+  projectPath: Assets/Realit/Library/Prefabs/Props/Lights/LightBar_1.prefab
   addressableKey: 63a27d69f05d9e04ca9e8e49773ade80
 --- !u!1 &5537265966253379893
 GameObject:
@@ -286,7 +286,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 46e0398636f28964d8ee3c105d84c864, type: 2}
+  - {fileID: 2100000, guid: 9412c2ed575f3bc4e81233ba3c3d0791, type: 2}
   - {fileID: 2100000, guid: aeacfe1616edaa943acecc52745b2078, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -383,7 +383,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 926d3a3b90a45ce488bb72d511ecf826, type: 2}
+  - {fileID: 2100000, guid: 9412c2ed575f3bc4e81233ba3c3d0791, type: 2}
   - {fileID: 2100000, guid: aeacfe1616edaa943acecc52745b2078, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -534,7 +534,7 @@ Light:
   m_Type: 3
   m_Shape: 0
   m_Color: {r: 0.9986, g: 1, b: 0.965, a: 1}
-  m_Intensity: 2
+  m_Intensity: 1
   m_Range: 50
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -577,7 +577,7 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1.7197967, y: 5.841465}
   m_BounceIntensity: 1
-  m_ColorTemperature: 4492
+  m_ColorTemperature: 6500
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0

@@ -64,11 +64,11 @@ ModelImporter:
     optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAngleDistortion: 25
+    secondaryUVAreaDistortion: 34
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 0
-    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinLightmapResolution: 46
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 40
     useFileScale: 1
